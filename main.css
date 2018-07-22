@@ -1,5 +1,5 @@
 .parent{
-  background-color: brown;
+  background-color: yellow;
   border: 5px solid red;
 }
 .parent{
@@ -13,7 +13,7 @@
   padding: 3%;
   margin: 3%;
   width: 30%;
-  box-shadow: 20px 12px 18px black;
+  box-shadow: 20px 12px 18px yellow;
   word-wrap: break-word;
 
 }
